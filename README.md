@@ -1,4 +1,4 @@
-### Olá eu sou Gabriel Bandoch 👋
+### Olá me chamo Gabriel Bandoch 👋
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MtmfFMrQxf)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdD2q8MfymjMBv1AsvZdjQw)
